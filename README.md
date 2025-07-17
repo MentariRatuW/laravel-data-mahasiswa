@@ -19,7 +19,7 @@ Aplikasi web Laravel untuk mengelola data mahasiswa (CRUD), dengan login dan val
 3. Jalankan php artisan serve
 
 ## 🖼 Screenshot
-[Lihat tampilan website di Google Drive](https://drive.google.com/drive/folders/link-screenshot)
+[Lihat tampilan website di Google Drive](https://drive.google.com/drive/folders/14WoGUqCbZpmfzgUcVCARImKkkfwbSXm4)
 
 ## 📁 Status
 ✅ Selesai
